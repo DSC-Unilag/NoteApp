@@ -1,2 +1,3 @@
 # NoteApp
 #DSC Unilag Challenge
+Notepad is an android application built to ...
